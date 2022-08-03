@@ -1,5 +1,8 @@
 # xmasic2_climate_summary
-Pulling climate information from the xmacis website for specific locations to create a monthly summary.
+Pulls climate information from the [xmacis website](https://xmacis.rcc-acis.org/) for specific locations to create a monthly summary.
+
+Copy google sheet template with script and make it your own. You will need to adjust the script to match your sheet. 
+[Link to Google Sheet Template](https://docs.google.com/spreadsheets/d/1zeZTXVL51DVJ-CJ52h4oB06VnXa63g6jLKyED2XapCE/edit?usp=sharing)
 
 DO NOT 
 Download sheet and REUPLOAD it as an excel sheet. This will eliminate the script!!!
